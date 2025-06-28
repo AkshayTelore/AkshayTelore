@@ -12,7 +12,7 @@ vector search, and full-stack development. My projects integrate modern tools li
 ## 🚀 Tech Stack
 
 **Languages:**  
-JavaScript · Python · PHP · C++ · SQL
+JavaScript · Python  · C/C++ · SQL 
 
 **Frontend:**  
 React.js · Bootstrap · Tailwind CSS · Streamlit
