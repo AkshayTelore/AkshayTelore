@@ -53,7 +53,7 @@ Firebase · Git · GitHub · Postman · Figma
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/akshaytelore)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshay-telore-209934251/)
 - 💼 Portfolio (Coming Soon)
 - 📧 teloreakshay1000@gmail.com
 
