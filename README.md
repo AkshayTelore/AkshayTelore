@@ -15,7 +15,7 @@ vector search, and full-stack development. My projects integrate modern tools li
 JavaScript · Python  · C/C++ · SQL 
 
 **Frontend:**  
-React.js · Bootstrap · Tailwind CSS · Streamlit
+Next. js, React.js · Bootstrap · Tailwind CSS · Streamlit
 
 **Backend:**  
 Node.js · Express.js · FastAPI · Django · PHP
