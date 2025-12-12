@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Akshay Telore
+#  Hi, I'm Akshay Telore
 
 🎓 MCA Postgraduate | 💻 Full Stack Developer | 🤖 AI Chatbot Engineer  
 📊 CGPA: 9.18
 
-I’m a results-driven developer passionate about building intelligent applications using the latest in AI, 
+I’m a results-driven Full Stack developer passionate about building intelligent applications using the latest in AI, 
 vector search, and full-stack development. My projects integrate modern tools like **FastAPI**, **ChromaDB**, 
 **React.js**, and **Prisma ORM** to solve real-world problems.
 
@@ -31,7 +31,7 @@ Firebase · Git · GitHub · Postman · Figma
 
 ---
 
-## 🧠 Featured Projects
+##  Featured Projects
 
 ### 🔹 AI Chatbot with Vector Search  
 > A FastAPI-based chatbot using Chroma DB + SQLite for document and URL-trained responses. Supports OCR and admin panel for custom knowledge injection.
@@ -44,7 +44,7 @@ Firebase · Git · GitHub · Postman · Figma
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshayTelore&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayTelore&layout=compact&theme=tokyonight)
